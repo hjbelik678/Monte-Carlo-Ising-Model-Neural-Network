@@ -1,7 +1,7 @@
 # Computational Physics: Neural Network Memory Simulation
 ## Henry Belik
 
-This project simulates neural network behavior for the storage and retrieval of memory using a modified Monte Carlo simulation[cite: 1]. The model leverages biological principles of the human brain to process and recognize patterns, specifically simple character-based images.
+This project simulates neural network behavior for the storage and retrieval of memory using a modified Monte Carlo simulation. The model leverages biological principles of the human brain to process and recognize patterns, specifically simple character-based images.
 
 ## Project Overview
 
